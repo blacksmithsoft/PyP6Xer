@@ -1,3 +1,7 @@
+# Fork from original https://github.com/HassanEmam/PyP6Xer
+This package is a fork from original maintained with fixes and changes to handle cases 
+and optimizations not comonly found in standard usage
+
 # PyP6Xer Python Primavera P6 XER parser
 PyXer is an open source project to parse Primavera xer files in python. The project is work in progress and open for community contributions. 
 
