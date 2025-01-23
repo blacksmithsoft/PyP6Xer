@@ -8,7 +8,7 @@ PyXer is an open source project to parse Primavera xer files in python. The proj
 In order to install a copy in your system you can use pip package manager as follows:
 
 ``` 
-pip install PyP6XER
+pip install PyP6Xer-patch
 ```
 
 The usage of the library is fairly simple and the import examples can be:
